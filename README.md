@@ -1,8 +1,15 @@
 # My Robot ROS 2 - Omni 3 Wheel Robot with Arm
 
 
+```bash
+git clone https://github.com/TranThang27/Omni_3_wheel_ROS.git
+```
 
-
+```bash
+cd Omni_3_wheel_ROS
+colcon build
+source install/setup.bash 
+```
 ### ** Hiển thị Model trên RViz**
 
 ```bash
